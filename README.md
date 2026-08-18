@@ -16,35 +16,37 @@ I am passionate about **programming, software development, data, and emerging te
 
 I believe in **continuous learning, creative thinking, and turning ideas into meaningful solutions**. 🚀
 
----
+
 
 ## 📌 Quick Introduction
 
-🎓 **Education:** B.Tech in Computer Engineering  
-📚 **Year:** 3rd Year  
-🏫 **College:** Matoshri College of Engineering and Research Centre, Nashik  
-💡 **Interests:** Programming | Data | Software Development | AI | Technology  
-🌱 **Currently Learning:** Data Structures, Algorithms, Data Analysis & Software Development  
+🎓 **Education:** B.Tech in Computer Engineering
+📚 **Year:** 3rd Year
+🏫 **College:** Matoshri College of Engineering and Research Centre, Nashik
+💡 **Interests:** Programming | Data | Software Development | AI | Technology
+🌱 **Currently Learning:** Data Structures, Algorithms, Data Analysis & Software Development
 
 
 
 ## 📞 Connect With Me
 
-📱 **Phone:** +91 8208358124  
+📱 **Phone:** +91 8208358124
 
-📧 **Email:** hansikavig@gmail.com  
+📧 **Email:** [hansikavig@gmail.com](mailto:hansikavig@gmail.com)
 
-🔗 **LinkedIn:** [https://www.linkedin.com/in/hansika-vig-63b020339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+🔗 **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/hansika-vig-63b020339/)
 
 🐙 **GitHub:** [Visit my GitHub](https://github.com/hansikakvig)
 
----
+
 
 # 🛠️ Skills & Technologies
 
 ## 💻 Programming Languages
 
 <p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" title="HTML5"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++" title="C++"/>
 
@@ -56,34 +58,34 @@ I believe in **continuous learning, creative thinking, and turning ideas into me
 
 </p>
 
-**C++** • **Python** • **Java** • **SQL**
+**HTML** • **C++** • **Python** • **Java** • **SQL**
 
 
 
 ## 📊 Data & Productivity Skills
 
-📗 **Microsoft Excel**  
-📈 **Data Analysis**  
-📊 **Data Visualization**  
-🗂️ **Data Handling**  
-🧹 **Data Cleaning**  
+📗 **Microsoft Excel**
+📈 **Data Analysis**
+📊 **Data Visualization**
+🗂️ **Data Handling**
+🧹 **Data Cleaning**
 🗄️ **Database Management**
 
----
+
 
 ## 🧠 Core Skills
 
-💡 **Problem Solving**  
-🧩 **Logical Thinking**  
-📚 **Data Structures & Algorithms**  
-💻 **Programming**  
-🗄️ **Database Management**  
-🤝 **Team Collaboration**  
+💡 **Problem Solving**
+🧩 **Logical Thinking**
+📚 **Data Structures & Algorithms**
+💻 **Programming**
+🗄️ **Database Management**
+🤝 **Team Collaboration**
 🚀 **Project Development**
 
----
 
-# 🚀 Featured Project
+
+# 🚀 Featured Projects
 
 ## ♿ NETRA – An App for Visually Impaired People
 
@@ -93,19 +95,19 @@ The application combines technologies such as **image scanning, text recognition
 
 ### ✨ Key Features
 
-📷 **Image Scanning**  
+📷 **Image Scanning**
 Scans images and extracts useful information from them.
 
-🔤 **Text Recognition**  
+🔤 **Text Recognition**
 Recognizes text from images and converts it into digital text.
 
-🔊 **Voice Assistance**  
+🔊 **Voice Assistance**
 Allows users to interact with the application using voice-based commands and assistance.
 
-🌐 **Text Translation**  
+🌐 **Text Translation**
 Helps translate recognized text into different languages for better accessibility.
 
-♿ **Accessibility Focused**  
+♿ **Accessibility Focused**
 Designed with the goal of making digital information easier to access for visually impaired people.
 
 ### 🧰 Technologies & Concepts
@@ -116,18 +118,49 @@ Designed with the goal of making digital information easier to access for visual
 
 > **NETRA aims to empower visually impaired people by making digital information more accessible through smart technology, image processing, and voice-based assistance.**
 
----
+
+
+## 📚 Amazon Bestselling Books – Data Analysis
+
+A **data analysis project** based on Amazon bestselling books data, focused on exploring book ratings, reviews, prices, authors, and other attributes to identify useful patterns and insights.
+
+### ✨ Key Features
+
+📊 **Data Exploration**
+Analyzes the dataset to understand book-related trends and patterns.
+
+🧹 **Data Cleaning**
+Handles and prepares the dataset for accurate analysis.
+
+📈 **Data Visualization**
+Uses charts and graphs to represent important findings visually.
+
+⭐ **Rating Analysis**
+Explores book ratings and identifies highly rated books.
+
+💰 **Price Analysis**
+Analyzes book prices and compares pricing patterns.
+
+### 🧰 Technologies Used
+
+`Python` `Pandas` `Matplotlib` `Jupyter Notebook` `Data Analysis` `Data Visualization`
+
+### 💡 Project Objective
+
+> **The project aims to analyze Amazon bestselling books data and extract meaningful insights through data cleaning, exploratory data analysis, and visualization.**
+
+
 
 # 🌱 Currently Learning
 
-💻 **Data Structures & Algorithms**  
-📊 **Data Analysis & Visualization**  
-🤖 **Artificial Intelligence**  
-🌐 **Web Development**  
-🗄️ **Database Management**  
+💻 **Data Structures & Algorithms**
+📊 **Data Analysis & Visualization**
+🤖 **Artificial Intelligence**
+🌐 **Web Development**
+🗄️ **Database Management**
 ⚙️ **Software Development**
 
----
+
 
 # 🎯 My Goal
 
@@ -135,10 +168,7 @@ Designed with the goal of making digital information easier to access for visual
 
 My goal is to continuously improve my technical knowledge, explore emerging technologies, strengthen my **problem-solving and data skills**, and build innovative solutions that create a meaningful impact.
 
----
 
-
----
 
 <p align="center">
 
