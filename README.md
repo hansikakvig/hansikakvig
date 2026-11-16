@@ -1,179 +1,184 @@
-# 👋 Hi, I'm Hansika Vig
+# 👋 Hey there! I'm Hansika Vig
 
-### 💻 3rd Year B.Tech Computer Engineering Student
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Passionate+Programmer;Data+%26+Technology+Enthusiast;Problem+Solver;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding animation"/>
+
+### 💻 Computer Engineering Student | Web Developer | Data Analytics Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;Web+Development+%7C+Next.js+%7C+React;Exploring+AI+%26+Data+Analytics;Learning+Something+New+Every+Day+%E2%9C%A8" />
+
+[![GitHub followers](https://img.shields.io/github/followers/hansikakvig?style=social)](https://github.com/hansikakvig)
+![Profile Views](https://komarev.com/ghpvc/?username=hansikakvig&color=blueviolet)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Hey! I'm **Hansika Vig**, a Third-Year B.Tech Computer Engineering student at Matoshri College of Engineering and Research Centre, Nashik.
+
+I'm passionate about building modern, responsive websites, exploring emerging technologies and turning creative ideas into real-world digital experiences.
+
+- 🎓 B.Tech Computer Engineering | 2028
+- 💼 Web Developer Intern at **Brand and Beeyond**
+- 🌐 Working with Next.js, React and modern web technologies
+- 🤖 Exploring AI, Prompt Engineering and Data Analytics
+- ☁️ Learning Cloud Computing and AWS
+- 💡 Interested in UI/UX, web development and problem-solving
+
+---
+
+## 💼 Internship Experience
+
+### Web Developer Intern | Brand and Beeyond
+**November 2026 – Present | Touchwood Group**
+
+- Working on real-world website development projects.
+- Building and improving responsive business websites.
+- Developing website pages and components using Next.js.
+- Working on UI/UX improvements, animations and interactive sections.
+- Handling website content, layouts and frontend enhancements.
+- Exploring modern development and deployment workflows.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
 </p>
 
-
-
-## 🌟 About Me
-
-Hello! I'm **Hansika Kamal Vig**, a **3rd Year B.Tech Computer Engineering student** at **Matoshri College of Engineering and Research Centre, Nashik**.
-
-I am passionate about **programming, software development, data, and emerging technologies**. I enjoy solving problems, exploring new technologies, and building innovative projects that can solve real-world challenges.
-
-I believe in **continuous learning, creative thinking, and turning ideas into meaningful solutions**. 🚀
-
-
-
-## 📌 Quick Introduction
-
-🎓 **Education:** B.Tech in Computer Engineering
-📚 **Year:** 3rd Year
-🏫 **College:** Matoshri College of Engineering and Research Centre, Nashik
-💡 **Interests:** Programming | Data | Software Development | AI | Technology
-🌱 **Currently Learning:** Data Structures, Algorithms, Data Analysis & Software Development
-
-
-
-## 📞 Connect With Me
-
-📱 **Phone:** +91 8208358124
-
-📧 **Email:** [hansikavig@gmail.com](mailto:hansikavig@gmail.com)
-
-🔗 **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/hansika-vig-63b020339/)
-
-🐙 **GitHub:** [Visit my GitHub](https://github.com/hansikakvig)
-
-
-
-# 🛠️ Skills & Technologies
-
-## 💻 Programming Languages
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" title="HTML5"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++" title="C++"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" title="Python"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java" title="Java"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="SQL" title="SQL"/>
-
+### Frontend & Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap" />
 </p>
 
-**HTML** • **C++** • **Python** • **Java** • **SQL**
-
-
-
-## 📊 Data & Productivity Skills
-
-📗 **Microsoft Excel**
-📈 **Data Analysis**
-📊 **Data Visualization**
-🗂️ **Data Handling**
-🧹 **Data Cleaning**
-🗄️ **Database Management**
-
-
-
-## 🧠 Core Skills
-
-💡 **Problem Solving**
-🧩 **Logical Thinking**
-📚 **Data Structures & Algorithms**
-💻 **Programming**
-🗄️ **Database Management**
-🤝 **Team Collaboration**
-🚀 **Project Development**
-
-
-
-# 🚀 Featured Projects
-
-## ♿ NETRA – An App for Visually Impaired People
-
-**NETRA** is an assistive application designed to help **visually impaired people** access and understand digital information more easily.
-
-The application combines technologies such as **image scanning, text recognition, translation, and voice commands** to create a more accessible and convenient experience for visually impaired users.
-
-### ✨ Key Features
-
-📷 **Image Scanning**
-Scans images and extracts useful information from them.
-
-🔤 **Text Recognition**
-Recognizes text from images and converts it into digital text.
-
-🔊 **Voice Assistance**
-Allows users to interact with the application using voice-based commands and assistance.
-
-🌐 **Text Translation**
-Helps translate recognized text into different languages for better accessibility.
-
-♿ **Accessibility Focused**
-Designed with the goal of making digital information easier to access for visually impaired people.
-
-### 🧰 Technologies & Concepts
-
-`Python` `AI` `OCR` `Image Processing` `Text Recognition` `Translation` `Voice Recognition`
-
-### 💡 Project Vision
-
-> **NETRA aims to empower visually impaired people by making digital information more accessible through smart technology, image processing, and voice-based assistance.**
-
-
-
-## 📚 Amazon Bestselling Books – Data Analysis
-
-A **data analysis project** based on Amazon bestselling books data, focused on exploring book ratings, reviews, prices, authors, and other attributes to identify useful patterns and insights.
-
-### ✨ Key Features
-
-📊 **Data Exploration**
-Analyzes the dataset to understand book-related trends and patterns.
-
-🧹 **Data Cleaning**
-Handles and prepares the dataset for accurate analysis.
-
-📈 **Data Visualization**
-Uses charts and graphs to represent important findings visually.
-
-⭐ **Rating Analysis**
-Explores book ratings and identifies highly rated books.
-
-💰 **Price Analysis**
-Analyzes book prices and compares pricing patterns.
-
-### 🧰 Technologies Used
-
-`Python` `Pandas` `Matplotlib` `Jupyter Notebook` `Data Analysis` `Data Visualization`
-
-### 💡 Project Objective
-
-> **The project aims to analyze Amazon bestselling books data and extract meaningful insights through data cleaning, exploratory data analysis, and visualization.**
-
-
-
-# 🌱 Currently Learning
-
-💻 **Data Structures & Algorithms**
-📊 **Data Analysis & Visualization**
-🤖 **Artificial Intelligence**
-🌐 **Web Development**
-🗄️ **Database Management**
-⚙️ **Software Development**
-
-
-
-# 🎯 My Goal
-
-> **"Keep Learning. Keep Building. Keep Growing." 🚀**
-
-My goal is to continuously improve my technical knowledge, explore emerging technologies, strengthen my **problem-solving and data skills**, and build innovative solutions that create a meaningful impact.
-
-
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Let's connect, collaborate, and build something amazing together! 🚀**
-
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,mongodb" />
 </p>
+
+### Data Analytics
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- Data Cleaning & Visualization
+- Prompt Engineering
+- AI-Assisted Development
+
+### Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,vercel,figma" />
+</p>
+
+---
+
+## 🌟 Featured Projects | Professional Website Development
+
+### 1. 🌐 Touchwood World – Corporate Website
+
+Corporate website development for Touchwood World, showcasing its businesses, ventures and brand identity.
+
+- Modern website layout and navigation.
+- Interactive sections and smooth scrolling.
+- Animated elements and responsive design.
+- Ventures and business information.
+- Modern UI/UX enhancements.
+
+**Tech Stack:** Next.js, React, JavaScript, CSS
+
+### 2. 🏡 Touchwood Lifespaces – Real Estate Website
+
+Website development for Touchwood Lifespaces, focused on real estate projects and property presentation.
+
+- Modern real estate website design.
+- Project and property information sections.
+- Responsive layouts.
+- Interactive UI elements and animations.
+- Website content and visual improvements.
+
+**Tech Stack:** Next.js, React, JavaScript, CSS
+
+### 3. 🌸 Harmony & Her – Wellness Website
+
+Website development for Harmony & Her, focusing on women's wellness, experiences and personal growth.
+
+- Our Approach section.
+- Experiences and wellness content.
+- Testimonials section.
+- Engaging page layouts and visual storytelling.
+- Responsive frontend development.
+
+**Tech Stack:** Next.js, React, JavaScript, CSS
+
+### 4. 🧡 Brand and Beeyond – Agency Website
+
+Website development and frontend improvements for Brand and Beeyond.
+
+- Modern corporate website experience.
+- Brand-focused UI/UX.
+- Responsive website sections.
+- Interactive components and animations.
+- Frontend development and content presentation.
+
+**Tech Stack:** Next.js, React, JavaScript, CSS
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hansikakvig&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansikakvig&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=hansikakvig&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 My Contribution Journey
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/hansikakvig/hansikakvig/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://github.com/hansikakvig">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Dream it. Build it. Improve it. Repeat."
+
+**Thanks for visiting my profile! 💜**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
