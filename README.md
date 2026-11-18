@@ -1,5 +1,4 @@
 # 👋 Hey there! I'm Hansika Vig
-
 <div align="center">
 
 <!-- Animated Coding GIF -->
